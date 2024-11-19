@@ -38,6 +38,7 @@ A documentação dos endpoints foi implementada utilizando o Swagger, facilitand
 # Start Rails
 
 > rake db:create db:migrate db:seed
+
 > please use the port 3001, so execute: rails s -p 3001
 
 # Tests
