@@ -1,7 +1,7 @@
 > *Project status:* completed
 
-> *:busts_in_silhouette: Author:* M
->ário Augusto Carvalho Lara Leite
+> *:busts_in_silhouette: Author:* Mário Augusto Carvalho Lara Leite
+
 > *:email: Email:* tkyakow@gmail.com
 
 > :date: *Year:* 2024
